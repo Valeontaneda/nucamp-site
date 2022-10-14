@@ -3,6 +3,7 @@ import SubHeader from '../components/SubHeader';
 import PartnersList from "../features/partners/PartnerList";
 
 const AboutPage = () => {
+
     return (
         <Container>
             <SubHeader current='Directory' />
