@@ -6,7 +6,6 @@ import {
     NavbarToggler,
     Nav,
     NavItem, 
-    Col
 } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
 import NucampLogo from '../app/assets/img/logo.png';
